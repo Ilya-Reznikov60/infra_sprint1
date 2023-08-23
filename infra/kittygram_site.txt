@@ -1,0 +1,5 @@
+IP: 51.250.31.101;
+name_taski: https://taskiwrite.myftp.org/;
+name_kittygram: https://kittygramwork.site/;
+login: yc-user;
+password: monty339(taski), monty334(kittygram);
